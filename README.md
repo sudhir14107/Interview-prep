@@ -79,6 +79,8 @@ Feel free to contribute by:
 3. Making your changes
 4. Submitting a pull request
 
+Please ensure you read and follow our [LICENSE](./LICENSE) guidelines when contributing.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
