@@ -53,24 +53,24 @@ Contains notes and implementations for system design concepts:
 
 1. Visit [NeetCode.io](https://neetcode.io/practice) to explore the problem topics
 2. Navigate to `/NeetCode/NeetCode150` folder which contains solutions organized by topics:
-   - [Arrays & Hashing](/NeetCode/NeetCode150/Arrays%20&%20Hashing)
-   - [Two Pointers](/NeetCode/NeetCode150/Two%20Pointers)
-   - [Sliding Window](/NeetCode/NeetCode150/Sliding%20Window)
+   - [Arrays & Hashing](/NeetCode/NeetCode150/Arrays_Hashing)
+   - [Two Pointers](/NeetCode/NeetCode150/Two_Pointers)
+   - [Sliding Window](/NeetCode/NeetCode150/Sliding_Window)
    - [Stack](/NeetCode/NeetCode150/Stack)
-   - [Binary Search](/NeetCode/NeetCode150/Binary%20Search)
-   - [Linked List](/NeetCode/NeetCode150/Linked%20List)
+   - [Binary Search](/NeetCode/NeetCode150/Binary_Search)
+   - [Linked List](/NeetCode/NeetCode150/Linked_List)
    - [Trees](/NeetCode/NeetCode150/Trees)
-   - [Heap & Priority Queue](/NeetCode/NeetCode150/Heap%20&%20Priority%20Queue)
+   - [Heap & Priority Queue](/NeetCode/NeetCode150/Heap_Priority_Queue)
    - [Backtracking](/NeetCode/NeetCode150/Backtracking)
    - [Tries](/NeetCode/NeetCode150/Tries)
    - [Graphs](/NeetCode/NeetCode150/Graphs)
-   - [Advanced Graphs](/NeetCode/NeetCode150/Advanced%20Graphs)
-   - [1D Dynamic Programming](/NeetCode/NeetCode150/1-D%20Dynamic%20Programming)
-   - [2D Dynamic Programming](/NeetCode/NeetCode150/2-D%20Dynamic%20Programming)
+   - [Advanced Graphs](/NeetCode/NeetCode150/Advanced_Graphs)
+   - [1D Dynamic Programming](/NeetCode/NeetCode150/1-D_Dynamic_Programming)
+   - [2D Dynamic Programming](/NeetCode/NeetCode150/2-D_Dynamic_Programming)
    - [Greedy](/NeetCode/NeetCode150/Greedy)
    - [Intervals](/NeetCode/NeetCode150/Intervals)
-   - [Math & Geometry](/NeetCode/NeetCode150/Math%20&%20Geometry)
-   - [Bit Manipulation](/NeetCode/NeetCode150/Bit%20Manipulation)
+   - [Math & Geometry](/NeetCode/NeetCode150/Math_Geometry)
+   - [Bit Manipulation](/NeetCode/NeetCode150/Bit_Manipulation)
 3. Each topic folder contains problem solutions with explanations
 4. Solutions are provided in multiple programming languages
 
